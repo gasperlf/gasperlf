@@ -2,7 +2,7 @@
 
 ![Lewis's github stats](https://github-readme-stats.vercel.app/api?username=gasperlf&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperlf&layout=compact&&exclude_repo=my-cv,gatling_maven_tutorials,ezprofile,kudo-app,iot-project,dashboardMaterialUi,react-sidebar-v1,sigma-react,shields,ezprofile,example-spring-converter-xml-json)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperlf&layout=compact&&exclude_repo=gatling_maven_tutorials,ezprofile,kudo-app,iot-project,dashboardMaterialUi,react-sidebar-v1,sigma-react,shields,ezprofile,example-spring-converter-xml-json)
 
 ## Connect with me:
 
