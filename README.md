@@ -13,6 +13,9 @@
    <img src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white" />
 </a>
 
+## My Stack
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gasperlf/background)
+
 <!--
 <a href="https://ivanperez9.github.io/">
    <img src="https://img.shields.io/badge/-ivanperez9.github.io-blueviolet?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
