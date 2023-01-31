@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Lewis%20Florez%20Renza&fontSize=50)
+
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a passionate and enthusiastic backend software engineer with 10+ years of experience developing software.
