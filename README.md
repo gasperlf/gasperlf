@@ -6,7 +6,7 @@ I'm a passionate and enthusiastic backend software engineer with 10+ years of ex
 
 ## Repo stats
 ![Lewis's github stats](https://github-readme-stats.vercel.app/api?username=gasperlf&count_private=true&show_icons=true&theme=synthwave&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperlf&layout=compact&&exclude_repo=gatling_maven_tutorials,ezprofile,kudo-app,iot-project,dashboardMaterialUi,react-sidebar-v1,sigma-react,shields,ezprofile,example-spring-converter-xml-json)&nbsp;&nbsp;&nbsp;&nbsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperlf&layout=compact&&exclude_repo=ezprofile,kudo-app,iot-project,dashboardMaterialUi,react-sidebar-v1,sigma-react,shields,ezprofile,example-spring-converter-xml-json)&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ## Skill & Tool
 
