@@ -2,6 +2,9 @@
 
 <img src="./my-octocat.png" alt="LFR" title="Lewis Fr">
 
+## Visit
+![](https://komarev.com/ghpvc/?username=gasperlf&style=flat-square)
+
 ## Info about my repos
 ![Lewis's github stats](https://github-readme-stats.vercel.app/api?username=gasperlf&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
