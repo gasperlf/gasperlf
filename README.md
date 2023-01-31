@@ -1,7 +1,11 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+<img src="./my-octocat.png" alt="LFR" title="Lewis Fr">
+
+## Info about my repos
 ![Lewis's github stats](https://github-readme-stats.vercel.app/api?username=gasperlf&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
+## Info about languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasperlf&layout=compact&&exclude_repo=gatling_maven_tutorials,ezprofile,kudo-app,iot-project,dashboardMaterialUi,react-sidebar-v1,sigma-react,shields,ezprofile,example-spring-converter-xml-json)
 
 ## Connect with me:
